@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a770be91-4a15-4a34-a90c-bd7327866073</webElementGuid>
+      <webElementGuid>2a7eb5f8-6b23-4bb5-95a5-e1b79d462841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>alert alert-info</value>
-      <webElementGuid>afc9e22e-2f81-4207-aaec-88211e267180</webElementGuid>
+      <webElementGuid>1b20e099-6a6b-4d13-b619-67833f0261ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
                             
                         
                     </value>
-      <webElementGuid>fcef462b-26b6-44f4-ae7c-a3f0c382556b</webElementGuid>
+      <webElementGuid>40628048-ed2f-4126-8240-922879147573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]</value>
-      <webElementGuid>3ab607d0-9343-4a7a-9bbe-1ca020974fc4</webElementGuid>
+      <webElementGuid>8e31af22-6da8-4b77-b13d-41ae7cee2732</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div[2]/form/div</value>
-      <webElementGuid>23599a31-a3b7-4f41-ba84-06affb25c5ae</webElementGuid>
+      <webElementGuid>f335fa67-e15d-4bfa-8541-096e96c1a68e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[2]</value>
-      <webElementGuid>b32c3e70-20e0-4a3d-aac9-a98485d8d58c</webElementGuid>
+      <webElementGuid>91c866d3-9ea6-470b-8fcf-574bad71a3b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::div[5]</value>
-      <webElementGuid>5e36ca16-4ede-423e-aaf5-c616ebd58648</webElementGuid>
+      <webElementGuid>d9a40f30-ca3f-4acd-9de0-60bbd901c128</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[7]</value>
-      <webElementGuid>39603029-cd44-4b3e-968e-0d20f3fe04d2</webElementGuid>
+      <webElementGuid>85232814-a9e5-4455-9fc1-be922c91892e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div</value>
-      <webElementGuid>b1beb504-deb4-4a5c-9f06-efa5aee393fe</webElementGuid>
+      <webElementGuid>404206a3-b2da-4a53-9ee8-496f933298cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
                             
                         
                     ')]</value>
-      <webElementGuid>9e2e0b15-df98-425f-9e7a-375553b37c1e</webElementGuid>
+      <webElementGuid>1ff6fba4-8823-413e-8604-0845add2f153</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

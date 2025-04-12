@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Login 05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8664b5c-1642-4fab-87fa-5a0cfe3f278b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17226b4b-e1c2-42ac-a946-ca798d674f6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17226b4b-e1c2-42ac-a946-ca798d674f6b</id>
+      <masked>false</masked>
+      <name>noName04</name>
+   </variable>
+</TestCaseEntity>
