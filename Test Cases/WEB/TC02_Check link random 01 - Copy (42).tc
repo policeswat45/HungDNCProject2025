@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC02_Check link random 01 - Copy (42)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a6068ac4-1709-4769-a619-1a460e70b571</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Load Page - Copy (3)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af75d603-4cd9-45cc-afb1-1939c04326ae</testCaseGuid>
+</TestCaseEntity>
