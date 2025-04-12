@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-button-shape</name>
+   <tag></tag>
+   <elementGuidId>7d700d4a-b53a-474b-a182-80cb1f3117d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigation-button-up']/ytd-button-renderer/yt-button-shape</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ytd-button-renderer.style-scope.ytd-shorts > yt-button-shape</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-button-shape</value>
+      <webElementGuid>7719a737-88ca-4b4a-bcb9-392d3a495add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation-button-up&quot;)/ytd-button-renderer[@class=&quot;style-scope ytd-shorts&quot;]/yt-button-shape[1]</value>
+      <webElementGuid>dbde7d88-9e8e-4e78-bfb1-66bf671abb84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigation-button-up']/ytd-button-renderer/yt-button-shape</value>
+      <webElementGuid>8ca9612e-9de0-4404-a4df-a8d585763398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::yt-button-shape[1]</value>
+      <webElementGuid>3d9476b6-76d8-48d2-855f-019901f1c023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ImagineDragons'])[1]/following::yt-button-shape[1]</value>
+      <webElementGuid>f305163f-d08b-4532-b283-c8875645662f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ytd-button-renderer/yt-button-shape</value>
+      <webElementGuid>1e42ff13-467e-431c-bc09-e19388325f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

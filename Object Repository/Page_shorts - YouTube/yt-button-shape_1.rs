@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-button-shape_1</name>
+   <tag></tag>
+   <elementGuidId>2f072928-295b-4204-a213-daddb643d448</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigation-button-down']/ytd-button-renderer/yt-button-shape</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#navigation-button-down > ytd-button-renderer.style-scope.ytd-shorts > yt-button-shape</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-button-shape</value>
+      <webElementGuid>736259c1-fdb7-4caf-a0a7-a0a8c544e9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation-button-down&quot;)/ytd-button-renderer[@class=&quot;style-scope ytd-shorts&quot;]/yt-button-shape[1]</value>
+      <webElementGuid>3235f87c-4d46-4b6c-a1c8-4e643a16c65a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigation-button-down']/ytd-button-renderer/yt-button-shape</value>
+      <webElementGuid>e378fa06-99ec-482d-b393-fa072978fc9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::yt-button-shape[2]</value>
+      <webElementGuid>fa048d85-a387-43ac-806d-eb1cea33b56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ImagineDragons'])[1]/following::yt-button-shape[2]</value>
+      <webElementGuid>03a06fcf-35d9-4089-bf38-2dca543c0e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/ytd-button-renderer/yt-button-shape</value>
+      <webElementGuid>b0efc149-2d2c-447e-838a-e835a9178cba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

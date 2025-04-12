@@ -19,16 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('https://www.youtube.com/')
 
-WebUI.click(findTestObject('Object Repository/Website/Page_CURA Healthcare Service/a_Make Appointment'))
+WebUI.click(findTestObject('Object Repository/Page_Subscriptions - YouTube/a_Shorts        Shorts'))
 
-WebUI.setText(findTestObject('Object Repository/Website/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_shorts - YouTube/yt-button-shape_1'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Website/Page_CURA Healthcare Service/input_Password_password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
-
-WebUI.click(findTestObject('Object Repository/Website/Page_CURA Healthcare Service/button_Login'))
-
-WebUI.closeBrowser()
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_girl will be girl  shorts trollface cr_73fa67/div_Preview_yt-spec-touch-feedback-shape__fill'))
 
