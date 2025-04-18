@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_01,,,,18-04-2025 01:13:12,18-04-2025 01:13:14,1.362s,FAILED
+,,,,,,,
+Test Cases/WEB/TC05_Login 05,,,,18-04-2025 01:13:13,18-04-2025 01:13:13,0.675s,FAILED
+"DATA BINDING - {""(Default) noNam..."":""""}",,,,,,,
+"openBrowser("""")",,,,18-04-2025 01:13:13,18-04-2025 01:13:13,0.429s,FAILED
+,,,,,,,
+Test Cases/WEB/TC04_Login 04,,,,18-04-2025 01:13:13,18-04-2025 01:13:13,0.120s,FAILED
+"DATA BINDING - {""(Default) varia..."":""""}",,,,,,,
+"openBrowser("""")",,,,18-04-2025 01:13:13,18-04-2025 01:13:13,0.022s,FAILED
+,,,,,,,
+Test Cases/WEB/TC03_Login 03,,,,18-04-2025 01:13:13,18-04-2025 01:13:14,0.051s,FAILED
+"DATA BINDING - {""(Default) noNam..."":""""}",,,,,,,
+"openBrowser("""")",,,,18-04-2025 01:13:13,18-04-2025 01:13:14,0.022s,FAILED
+,,,,,,,
+Test Cases/WEB/TC02_Login 02,,,,18-04-2025 01:13:14,18-04-2025 01:13:14,0.039s,FAILED
+"DATA BINDING - {""(Default) noNam..."":""""}",,,,,,,
+"openBrowser("""")",,,,18-04-2025 01:13:14,18-04-2025 01:13:14,0.018s,FAILED
+,,,,,,,
+Test Cases/WEB/TC01_Load Page,,,,18-04-2025 01:13:14,18-04-2025 01:13:14,0.206s,FAILED
+"DATA BINDING - {""(Default) inPut..."":"""",""(Default) phone..."":""0"",""(Default) otpLo..."":""0"",""(Default) comme..."":""[]"",""(Default) nameO..."":""""}",,,,,,,
+"setWebDriverPreferencesProperty(""args"", [""--disable-features=SafeBrowsing,PasswordLeakToggleMove""])",,,,18-04-2025 01:13:14,18-04-2025 01:13:14,0.005s,PASSED
+"openBrowser(""https://katalon-demo-cura.herokuapp.com/"")",,,,18-04-2025 01:13:14,18-04-2025 01:13:14,0.017s,FAILED

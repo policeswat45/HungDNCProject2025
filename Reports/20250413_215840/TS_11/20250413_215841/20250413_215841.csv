@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_11,,,,13-04-2025 21:58:53,13-04-2025 21:58:55,1.500s,FAILED
+,,,,,,,
+Test Cases/WEB/TC01_Load Page,,,,13-04-2025 21:58:54,13-04-2025 21:58:55,0.036s,FAILED
+"DATA BINDING - {""(Default) inPut..."":"""",""(Default) phone..."":""0"",""(Default) otpLo..."":""0"",""(Default) comme..."":""[]"",""(Default) nameO..."":""""}",,,,,,,
+"setWebDriverPreferencesProperty(""args"", [""--disable-features=SafeBrowsing,PasswordLeakToggleMove""])",,,,13-04-2025 21:58:54,13-04-2025 21:58:54,0.001s,PASSED
+"openBrowser("""")",,,,13-04-2025 21:58:54,13-04-2025 21:58:55,0.009s,FAILED

@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_01,,,,13-04-2025 20:39:30,13-04-2025 20:39:32,1.188s,FAILED
+,,,,,,,
+Test Cases/WEB/TC05_Login 05,,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.607s,FAILED
+"DATA BINDING - {""(Default) noNam..."":""""}",,,,,,,
+"openBrowser("""")",,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.357s,FAILED
+,,,,,,,
+Test Cases/WEB/TC04_Login 04,,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.039s,FAILED
+"DATA BINDING - {""(Default) varia..."":""""}",,,,,,,
+"openBrowser("""")",,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.015s,FAILED
+,,,,,,,
+Test Cases/WEB/TC03_Login 03,,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.038s,FAILED
+"DATA BINDING - {""(Default) noNam..."":""""}",,,,,,,
+"openBrowser("""")",,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.014s,FAILED
+,,,,,,,
+Test Cases/WEB/TC02_Login 02,,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.048s,FAILED
+"DATA BINDING - {""(Default) noNam..."":""""}",,,,,,,
+"openBrowser("""")",,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.024s,FAILED
+,,,,,,,
+Test Cases/WEB/TC01_Load Page,,,,13-04-2025 20:39:31,13-04-2025 20:39:32,0.228s,FAILED
+"DATA BINDING - {""(Default) inPut..."":"""",""(Default) phone..."":""0"",""(Default) otpLo..."":""0"",""(Default) comme..."":""[]"",""(Default) nameO..."":""""}",,,,,,,
+"setWebDriverPreferencesProperty(""args"", [""--disable-features=SafeBrowsing,PasswordLeakToggleMove""])",,,,13-04-2025 20:39:31,13-04-2025 20:39:31,0.004s,PASSED
+"openBrowser("""")",,,,13-04-2025 20:39:31,13-04-2025 20:39:32,0.016s,FAILED

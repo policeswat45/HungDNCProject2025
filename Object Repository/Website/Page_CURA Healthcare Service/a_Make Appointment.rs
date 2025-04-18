@@ -10,14 +10,14 @@
          <value>//*[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#btn-make-appointment</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>

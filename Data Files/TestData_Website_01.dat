@@ -9,12 +9,17 @@
    <dataFileGUID>3a98cbaf-66df-4ff6-b001-fd48ba8e65ce</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>Okey</data>
-   <data>Not+Okey</data>
-   <data>To+be+determined</data>
+   <data>Okey 1</data>
+   <data>Not+Okey 2</data>
+   <data>To+be+determined 3</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>comment</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Detail</name>
       <size>3</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>

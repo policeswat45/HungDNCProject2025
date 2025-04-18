@@ -6,12 +6,12 @@
    <elementGuidId>e4817824-9d90-4306-9a9e-d332ffd32d0b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='summary']/div/div/div/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::h2[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
